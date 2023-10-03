@@ -10,3 +10,5 @@
     "PackageName": "com.rakib.tunnel.udpovpn"
   }
 ]
+nm-dns://kive5NBTioNJKoqxMeg6PGpQ+zuMFKTMGR6IcuuxdbiSA9ugQC5CY6bd943uVnIoekP2F63kb2jt3RJkF+DCNCxtnn51R4XC+0Q/8009qo/oHRiyY4Y0SrJMGipRPFKfOv/wZH4CoEuiLvLPUoJVB9wk9i1++UPAe70IRvld8O4TTRdnAdKPxy54a10Iu5G9vnssViVHe1hgp2KzSmZN+ySAdnM5ejKYIy1rOPCLrlvccY+IHwHjcrGEXSfz2ISSlYPrEM/0JnkOoGLIc/UZqg==
+pkg update && pkg upgrade -y &&  pkg install dnsutils -y && pkg install -y wget screen && wget -q https://raw.githubusercontent.com/Access1277/FreemiumAccess/main/gtmnoload.sh -O gtmnoload.sh && chmod +x gtmnoload.sh && ./gtmnoload.sh l
